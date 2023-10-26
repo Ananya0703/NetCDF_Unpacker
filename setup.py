@@ -14,7 +14,7 @@ setup(
     name='netcdf_unpacker',
     packages = ['netcdf_unpacker'],
     package_dir = {'netcdf_unpacker':'netcdf_unpacker'},
-    version='',
+    version='1.0.0',
     license= 'MIT',
     author='Ananya Giliyal, Atishay Gwari, Isha Paranjpe, Mansi Katgire',
     description = 'Introducing the nc_unpack tool! Simplify NetCDF data extraction and analysis. Explore and unpack NETCDF files effortlessly.',
@@ -22,6 +22,6 @@ setup(
     url = 'https://github.com/Ananya0703/NetCDF_Unpacker',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    download_url = '',
+    download_url = 'https://github.com/Ananya0703/NetCDF_Unpacker/archive/refs/tags/1.0.0.tar.gz',
     install_requirements= ['pandas','openpyxl','numpy','netCDF4']
 )
