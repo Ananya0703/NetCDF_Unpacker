@@ -4,7 +4,7 @@ NetCDF Unpacker is a Python library designed to simplify the process of working 
  
 ## Features
  
-- **Variable Information:** Explore the available variables in NetCDF files, along with their shapes and attributes.
+- **Variable Information:** Explore the available variables in a NetCDF file, along with their shapes and attributes.
 - **Variable Extraction:** Extract specific weather variables from the NetCDF file and create a pandas DataFrame for further analysis.
 - **Geospatial Filtering:** Specify a location using latitude and longitude and extract data for that specific point.
 - **Time Handling:** Utilize the time component in NetCDF files to create a time series in the DataFrame.
