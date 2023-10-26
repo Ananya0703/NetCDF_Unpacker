@@ -56,7 +56,7 @@ With the extracted data in a DataFrame, you can now perform data analysis, visua
  
 ## Example
  
-Here's a simple example of extracting and visualizing data from a NetCDF file:
+Here's a simple example of extracting and visualizing data from a NetCDF files:
  
 ```python
 import matplotlib.pyplot as plt
