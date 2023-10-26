@@ -76,7 +76,7 @@ plt.show()
  
 ## Support and Contributions
  
-If you encounter any issues, have suggestions, or would like to contribute to this project, please visit the github repository or reach out to us via mail.
+If you encounter any issues, have suggestions, or would like to contribute to this project, please visit the github repository or feel free to reach out to us via mail.
 
 -Ananya Giliyal - giliyal.ananya@gmail.com
 
