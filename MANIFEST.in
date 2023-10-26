@@ -1,0 +1,3 @@
+include *.py
+include netcdf_unpacker/*.py
+
